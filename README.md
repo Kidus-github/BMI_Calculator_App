@@ -82,6 +82,6 @@ Discover where you stand in your health journey with this easy-to-use **BMI Calc
 ---
 
 ### Image Inclusion:
-Replace `lib/Images/img_1.png` and `lib/Images/img.png` with the actual paths where the images will be stored within the project or repository.
+![Alt text](`lib/Images/img_1.png`  `lib/Images/img.png`)
 
 ---
